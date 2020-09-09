@@ -206,7 +206,6 @@ Expected: {{Order.arrivalDate|correcttimezone|date ("m/d/y")}}<br />
 </p>
 </div>
 </div>
-{% if hide_shipping_table == false %}
 
 <h3>Details</h3>
 <table class="document">
